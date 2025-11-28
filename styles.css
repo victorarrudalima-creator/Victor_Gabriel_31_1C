@@ -11,6 +11,13 @@ header{
     color: rgb(44, 1, 1);
     background: rgb(222, 154, 154);
 }
+.chamada{
+    background: rgb(67, 23, 23);
+    padding-bottom: 100px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
 
 p{
 text-align: center;
