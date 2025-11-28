@@ -26,3 +26,12 @@ p{
 text-align: center;
 font-size: 30px;
 }
+.categoria_videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+.categorias {
+    padding-left: 20px;
+    padding-right: 20px;
+}
